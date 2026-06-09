@@ -1,62 +1,28 @@
 # SALES AND PROFIT ANALYSIS
 
-Simple overview of use/purpose.
+# DATASET: Customer,Product,Sales,StoreType Tables.
+
+# Key Fields
+Store Name, Product Name, Brand Name, First Name, Lastname, Age, Gender, City, State, Country, Loyalty Level, Payment type, Month, Category, Sub Category, Cost, Stock, Region, Store type, Total Amount, Discounted Amount, Profit Margin.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This Project uses a dataset contains information on "Sales" and "Profit".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Excel how to calculate IF,ISBLANK,CLEAN,TRIM,PROPER,UPPER,LEFT,RIGHT,MIN,MAX,SUMIF,COUNTIF,AVERAGEIF,XLOOKUP,VLOOKUP,MEDIAN,MODE,Remove Duplicates,Descrptive Analysis,Pivot table,Pivart Charts,Slicers,functions and Text string apply in every situation.I will get clear chart of visualization of Sales Dash Board.
 
-## Getting Started
+## Goal
+
+Analyses New Column of Loyality-Level,Total-Amount,Discount-Revenue,Proft-Margin.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+•	Microsoft Excel 2024 and Power Query.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Idaya Gracy Jude
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Idaya Gracy Jude] License - see the idhayaig-cmd file for details
 
-## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
