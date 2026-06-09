@@ -1,7 +1,6 @@
 # SALES AND PROFIT ANALYSIS
 
-# DATASET: Customer,Product,Sales,StoreType Tables.
-
+DATASET: Customer,Product,Sales,StoreType Tables.
 # Key Fields
 Store Name, Product Name, Brand Name, First Name, Lastname, Age, Gender, City, State, Country, Loyalty Level, Payment type, Month, Category, Sub Category, Cost, Stock, Region, Store type, Total Amount, Discounted Amount, Profit Margin.
 
