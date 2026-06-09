@@ -6,7 +6,7 @@ Store Name, Product Name, Brand Name, First Name, Lastname, Age, Gender, City, S
 
 ## Description
 
-This Project uses a dataset contains information on "Sales" and "Profit".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Excel how to calculate IF,ISBLANK,CLEAN,TRIM,PROPER,UPPER,LEFT,RIGHT,MIN,MAX,SUMIF,COUNTIF,AVERAGEIF,XLOOKUP,VLOOKUP,MEDIAN,MODE,Remove Duplicates,Descrptive Analysis,Pivot table,Pivart Charts,Slicers,functions and Text string apply in every situation.I will get clear chart of visualization of Sales Dash Board.
+This Project uses a dataset contains information on "Sales" and "Profit".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Excel how to calculate IF,ISBLANK,CLEAN,TRIM,PROPER,UPPER,SD,MIN,MAX,SUMIF,COUNTIF,AVERAGEIF,XLOOKUP,VLOOKUP,MEDIAN,MODE,Remove Duplicates,Descrptive Analysis,Pivot table,Pivart Charts,Slicers,functions and Text string apply in every situation.I will get clear chart of visualization of Sales Dash Board.
 
 ## Goal
 
