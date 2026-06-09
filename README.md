@@ -12,6 +12,14 @@ This Project uses a dataset contains information on "Sales" and "Profit".The Aim
 
 Analyses New Column of Loyality-Level,Total-Amount,Discount-Revenue,Proft-Margin.
 
+## Key Insights:
+
+• Highest Product Category Sales Revenue
+• Highest Customer Loyalty_Level
+• Profit by Category Margin
+• KPI Cards for Sales, Profit, Orders, and Customers
+• Interactive Filters for better analysis
+
 ### Dependencies
 
 •	Microsoft Excel 2024 and Power Query.
